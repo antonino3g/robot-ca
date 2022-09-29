@@ -8413,15 +8413,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Antonino\\.nuget\\packages\\": {}
+    "C:\\Users\\Administrador\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "ChamadosCA",
       "projectName": "ChamadosCA",
-      "projectPath": "C:\\Users\\Antonino\\git\\robot-ca\\ChamadosCA\\.local",
-      "packagesPath": "C:\\Users\\Antonino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonino\\git\\robot-ca\\ChamadosCA\\.local"
+      "projectPath": "C:\\Users\\Administrador\\git\\robot-ca\\ChamadosCA\\.local",
+      "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrador\\git\\robot-ca\\ChamadosCA\\.local"
     },
     "frameworks": {
       "net461": {
@@ -8447,7 +8447,7 @@
             "version": "[22.4.7, 22.4.7]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Antonino\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Administrador\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
